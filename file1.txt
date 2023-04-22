@@ -1,5 +1,6 @@
 start
 
+<<<<<<< HEAD
 app
 
 
@@ -7,3 +8,7 @@ Tretya stroka
 
 
 commit na fix
+=======
+
+This hot fixes
+>>>>>>> hotfix
